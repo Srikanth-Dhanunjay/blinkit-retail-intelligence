@@ -1,0 +1,18 @@
+# Virtual Environments (Local environment packages)
+venv/
+.venv/
+env/
+
+# Jupyter Notebook artifacts & checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python bytecode and runtime caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System files
+.DS_Store
+Thumbs.db

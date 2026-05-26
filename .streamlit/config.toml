@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0D6EFD"          # Premium Corporate Blue
+backgroundColor = "#FFFFFF"      # Soft, clean slate off-white
+secondaryBackgroundColor = "#1c1b1b" # Pure White for sidebar and cards
+textColor = "#0F172A"            # Deep slate black for sharp readability
+font = "sans serif"
