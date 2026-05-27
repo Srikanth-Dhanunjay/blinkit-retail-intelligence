@@ -1,4 +1,5 @@
-# Blinkit Retail Intelligence & Profit Simulator 🛒📊
+# Retail Profit Intelligence Simulator
+### Python · Streamlit · Plotly | Margin Modeling & Category Performance
 
 A high-performance, executive-grade retail analytics dashboard and interactive profit forecasting simulator designed for quick-commerce operational tracking. This application transforms raw, transactional grocery data into scannable, high-impact business insights.
 
